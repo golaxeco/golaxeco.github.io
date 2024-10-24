@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://golaxeco.github.io/sitemap/sitemap_index.golaxeco
+Sitemap: https://golaxeco.github.io/tWK/sitemap_index.golaxeco
+Sitemap: https://golaxeco.github.io/oOy/sitemap_index.golaxeco
+Sitemap: https://golaxeco.github.io/Utj/sitemap_index.golaxeco
+Sitemap: https://golaxeco.github.io/vGE/sitemap_index.golaxeco
+Sitemap: https://golaxeco.github.io/tGU/sitemap_index.golaxeco
+Sitemap: https://golaxeco.github.io/LWO/sitemap_index.golaxeco
+Sitemap: https://golaxeco.github.io/cdU/sitemap_index.golaxeco
+Sitemap: https://golaxeco.github.io/IEf/sitemap_index.golaxeco
+Sitemap: https://golaxeco.github.io/daV/sitemap_index.golaxeco
+Sitemap: https://golaxeco.github.io/hKf/sitemap_index.golaxeco
+Sitemap: https://golaxeco.github.io/Jsh/sitemap_index.golaxeco
+Sitemap: https://golaxeco.github.io/fId/sitemap_index.golaxeco
+Sitemap: https://golaxeco.github.io/fGL/sitemap_index.golaxeco
+Sitemap: https://golaxeco.github.io/NPs/sitemap_index.golaxeco
+Sitemap: https://golaxeco.github.io/URu/sitemap_index.golaxeco
+Sitemap: https://golaxeco.github.io/ydp/sitemap_index.golaxeco
+Sitemap: https://golaxeco.github.io/iBN/sitemap_index.golaxeco
+Sitemap: https://golaxeco.github.io/qeP/sitemap_index.golaxeco
+Sitemap: https://golaxeco.github.io/Xmd/sitemap_index.golaxeco
+Sitemap: https://golaxeco.github.io/jDh/sitemap_index.golaxeco
